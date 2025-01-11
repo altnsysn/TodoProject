@@ -21,8 +21,4 @@ git push -u origin master<br/>
 git status
 git log <br/>
 
-### **Meaven**<br/>
-mvn clean install <br/>
-mvn spring-boot:run
-
 
